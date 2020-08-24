@@ -1,3 +1,3 @@
 # ARF_5TOP
 
-Scripts used in Cottrell et al., 2020
+R Scripts associated with Cottrell et al., 2020
